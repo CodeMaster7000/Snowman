@@ -1,2 +1,2 @@
 # Snowman
-A Snowman coded in pure CSS, celebrating winter! Have fun and watch this "cold" animation (Brrr!) in the comfort of your home!
+A snowman coded in HTMl and CSS, celebrating the winter! Have fun and watch this "cold" animation (Brrr!) in the comfort of your home!
